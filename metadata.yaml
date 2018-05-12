@@ -1,0 +1,27 @@
+_repo: A-Handbook-of-Health_20294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hutchinson, Woods
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '8109'
+    url: http://www.gutenberg.org/2009/agents/8109
+    wikipedia: http://en.wikipedia.org/wiki/Woods_Hutchinson
+description: ''
+gutenberg_issued: '2007-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hygiene'
+- !lcc 'RA'
+title: A Handbook of Health
+url: http://www.gutenberg.org/ebooks/20294
