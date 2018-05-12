@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8109
     wikipedia: http://en.wikipedia.org/wiki/Woods_Hutchinson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20294#A-Handbook-of-Health
 gutenberg_issued: '2007-01-05'
 gutenberg_type: Text
 identifiers:
